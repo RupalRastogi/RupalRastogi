@@ -1,5 +1,5 @@
 <p align=left>
-  <h3>Hey there peeps!! I'm:</h3>
+  <h3>Hey Everyone!! I'm:</h3>
   <li> 🌱 Currently learning WebDev(MERN).</li>
   <li> 🫰 An open source enthusiast.</li>
   <li> 👯 Looking to collaborate on open source projects and hackathons.</li>
