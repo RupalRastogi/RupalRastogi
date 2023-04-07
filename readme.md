@@ -4,7 +4,7 @@
   <li> 🫰 An open source enthusiast.</li>
   <li> 🧭 Exploring Linux.</li>
   <li> 👯 Looking to collaborate on open source projects and hackathons.</li>
-  <li> <a href= "https://linktr.ee/heismanish">📫 Let's connect.</a> </li>
+  <li> <a href= "https://linktr.ee/RupalRastogi">📫 Let's connect.</a> </li>
   <p>&nbsp</p>
 
 </p>
