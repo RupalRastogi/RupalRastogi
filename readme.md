@@ -8,5 +8,4 @@
   <p>&nbsp</p>
 
 </p>
-<p><img align="right" src="![tech gif3](https://user-images.githubusercontent.com/110107667/230735057-88aef27f-75f9-41b1-8809-ba1bbc1e4ccc.gif)
-" alt="drawing" width="240" /></p>
+<p><img align="right" src="![tech gif3](https://user-images.githubusercontent.com/110107667/230735267-a92e40df-9ffb-4467-b384-a28dc87ac9fd.gif)" alt="drawing" width="240" /></p>
