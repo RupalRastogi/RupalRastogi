@@ -8,4 +8,4 @@
   <p>&nbsp</p>
 
 </p>
-<p><img align="right" src="C:\Users\rupal rastogi\Desktop\tech gif3.gif" alt="drawing" width="240" /></p>
+<p><img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fassembly.malala.org%2Fstories%2Fiwd-dream-career-illustration-series&psig=AOvVaw2bxhUDLX1DVntcIGK3X9j-&ust=1681062327704000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjElIPrmv4CFQAAAAAdAAAAABAE" alt="drawing" width="240" /></p>
