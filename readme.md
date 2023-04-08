@@ -10,4 +10,4 @@
 </p>
 <p><img align="right" src=https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif" alt="drawing" width="260" /></p>
   
-<p><img align="centre" src="https://digiday.com/wp-content/uploads/sites/3/2023/03/typing-man-digiday-gif-2.gif" alt="drawing" width="240" /></p>
+<p><img align="center" src="https://digiday.com/wp-content/uploads/sites/3/2023/03/typing-man-digiday-gif-2.gif" alt="drawing" width="240" /></p>
