@@ -8,4 +8,4 @@
   <p>&nbsp</p>
 
 </p>
-<p><img align="right" src="![tech gif3](https://user-images.githubusercontent.com/110107667/230735267-a92e40df-9ffb-4467-b384-a28dc87ac9fd.gif)" alt="drawing" width="240" /></p>
+<p><img align="right" src="C:\Users\rupal rastogi\Desktop\tech gif3.gif" alt="drawing" width="240" /></p>
