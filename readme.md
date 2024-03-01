@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects and hackathons.**
 
-- 📫 How to reach me **http://bento.me/rupalrastogi**
+- 📫 How to reach me **https://flowcv.me/rupalrastogi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
